@@ -4,7 +4,8 @@
 
 # Supported Devices
 | Device Name | Support Level | Latest Supported WearOS Version | Builds | Status | Tested |
-| ----------- | -----------   |     ----------- | ----------- | ----------- |  ----------- |                          
+| ----------- | -----------   |     ----------- | ----------- | ----------- |  ----------- |
+| Samsung Galaxy Watch 3     | No Support         | **Not Compatible** ⚠️ | v0.5.8 Pre-Release | ❌ |  |
 | Samsung Galaxy Watch 4      | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
 | Samsung Galaxy Watch 5   | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
 | Pixel Watch | Full Support | WearOS 3 | v0.5.8 Pre-Release | ❓ | ❌ |
