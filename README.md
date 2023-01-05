@@ -1,6 +1,12 @@
+
+![](https://cdn.discordapp.com/attachments/892441244612034611/1060649924934504568/ic_launcher.png)
 # LynxVR
 
-# What's LynxVR?
+LynxVR is an application for smartwatches that allows to stream your Vitals into your VR Game! A few games are compatible such as NeosVR and VRChat. 
+This application does not require a computer to stream this data and allows Quest Users or Pico Users to use the full advantage of OSC and WebSockets.
+
+# Why LynxVR?
+LynxHR is fully open-source, free and growing with support on new and old hardware! We want to make it simple to setup for anyone who's new to Virtual Reality. LynxVR was developed by Furred and its contributers.
 
 # Supported Devices
 | Device Name | Support Level | Latest Supported WearOS Version | Builds | Status | Tested |
@@ -15,12 +21,8 @@
 
 [See Full Device Support List](/#)
 
-# Why is LynxHR renamed to LynxVR?
-
 # Building
 
 # Contributions
-
-# Donating
 
 **Source Code will be released in 24-48 hours**
