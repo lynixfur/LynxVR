@@ -28,5 +28,9 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 # Building
 
 # Contributions
+Special Thanks to : <br/>
 
-**Source Code will be released in 24-48 hours after work :)**
+**Franko the fox** - Implementation of Early Versions of LynxVR (Rust Based) <br/>
+**Jack** - NeosVR Parser for WebSocket <br/>
+
+Want to contribute? Share your ideas and create a PR! We're always looking for some help!
