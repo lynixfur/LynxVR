@@ -3,6 +3,7 @@
 # LynxVR
 
 ***BANNER HERE***
+
 ***(Lynx) Big Cats Avatars - Made by Abiboi / [https://Abiboi.com](https://Abiboi.com) / @boi_abi*** 
 
 LynxVR is an application for smartwatches that allows to stream your Vitals into your VR Game! A few games are compatible such as NeosVR and VRChat. 
