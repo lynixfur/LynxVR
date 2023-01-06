@@ -15,9 +15,9 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 # Supported Devices
 | Device Name | Support Level | Operating System | Builds | Status | Tested |
 | ----------- | -----------   |     ----------- | ----------- | ----------- |  ----------- |
-| Samsung Galaxy Watch 1     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release | ❌ |  |
-| Samsung Galaxy Watch 2     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release | ❌ |  |
-| Samsung Galaxy Watch 3     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release | ❌ |  |
+| Samsung Galaxy Watch 1     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release |⚙️ | ❌ |
+| Samsung Galaxy Watch 2     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release |⚙️ | ❌ |
+| Samsung Galaxy Watch 3     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release |⚙️ | ❌ |
 | Samsung Galaxy Watch 4      | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
 | Samsung Galaxy Watch 5   | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
 | Pixel Watch | Full Support | WearOS 3 | v0.5.8 Pre-Release | ❓ | ❌ |
