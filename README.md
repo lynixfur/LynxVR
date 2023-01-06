@@ -25,6 +25,19 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 
 [See Full Device Support List](https://github.com/Furred/LynxVR/wiki/Device-Compatibility-List)
 
+# API Example Datasets
+NeosVR: ``255,0,0,100,false`` => bpm,spo2,stress_lvl,bat,bat_charging<br/>
+VRChat: 
+```
+/avatar/parameters/lynxhr_hr1_i (Integer)
+/avatar/parameters/lynxhr_hr2_u (Unsigned Float)
+/avatar/parameters/lynxhr_hr3_s (Signed Float)
+/avatar/parameters/lynxhr_bat (Float)
+/avatar/parameters/lynxhr_bat_charging (Boolean)
+/avatar/parameters/lynxhr_slvl (Float)
+```
+
+
 # Contributions
 Special Thanks to : <br/>
 
