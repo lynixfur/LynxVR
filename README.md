@@ -13,9 +13,11 @@ This application does not require a computer to stream this data and allows Ques
 LynxHR is fully open-source, free and growing with support on new and old hardware! We want to make it simple to setup for anyone who's new to Virtual Reality. LynxVR was developed by Furred and its contributers.
 
 # Supported Devices
-| Device Name | Support Level | Latest Supported WearOS Version | Builds | Status | Tested |
+| Device Name | Support Level | Operating System | Builds | Status | Tested |
 | ----------- | -----------   |     ----------- | ----------- | ----------- |  ----------- |
-| Samsung Galaxy Watch 3     | No Support         | **Not Compatible** ⚠️ | v0.5.8 Pre-Release | ❌ |  |
+| Samsung Galaxy Watch 1     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release | ❌ |  |
+| Samsung Galaxy Watch 2     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release | ❌ |  |
+| Samsung Galaxy Watch 3     | In Progress (Adding Support)         | **Not Compatible** ⚠️ | v1.0.0 Release | ❌ |  |
 | Samsung Galaxy Watch 4      | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
 | Samsung Galaxy Watch 5   | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
 | Pixel Watch | Full Support | WearOS 3 | v0.5.8 Pre-Release | ❓ | ❌ |
