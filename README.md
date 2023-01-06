@@ -25,8 +25,6 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 
 [See Full Device Support List](https://github.com/Furred/LynxVR/wiki/Device-Compatibility-List)
 
-# Building
-
 # Contributions
 Special Thanks to : <br/>
 
