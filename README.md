@@ -23,6 +23,8 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 | Fossil Gen 5 | **May be Incompatible** | **WearOS 2** |  | ❌ | ❌ |
 | Fossil Gen 6 | Full Support | WearOS 3 | v0.5.8 Pre-Release | ❓ | ❌ |
 | COOSPO H6 Heart Rate Monitor Chest Strap | HR Support Only | **Not Compatible** ⚠️ | v1.0.0 Release | ⚙️ | ❌ |
+| Miband 5 | HR Support Only (Abandoned) | **Not Compatible** ⚠️ | v0.0.3 Release | ✅  | ✅  |
+| Miband 4 | HR Support Only (Abandoned) | **Not Compatible** ⚠️ | v0.0.3 Release | ✅  | ✅  |
 
 [See Full Device Support List](/#)
 
