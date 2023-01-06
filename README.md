@@ -13,20 +13,15 @@ This application does not require a computer to stream this data and allows Ques
 LynxHR is fully open-source, free and growing with support on new and old hardware! We want to make it simple to setup for anyone who's new to Virtual Reality. LynxVR was developed by Furred and its contributers.
 
 # Supported Devices
-| Device Name | Support Level | Operating System | Builds | Status | Tested |
-| ----------- | -----------   |     ----------- | ----------- | ----------- |  ----------- |
-| Samsung Galaxy Watch 1     | Halted | **Not Compatible** ⚠️ | **Compatibility Pending** |⚠️ | ❌ |
-| Samsung Galaxy Watch 2     | Halted         | **Not Compatible** ⚠️ | **Compatibility Pending** |⚠️ | ❌ |
-| Samsung Galaxy Watch 3     | Halted         | **Not Compatible** ⚠️ | **Compatibility Pending** |⚠️ | ❌ |
-| Samsung Galaxy Watch 4      | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
-| Samsung Galaxy Watch 5   | Full Support         | WearOS 3 | v0.5.8 Pre-Release | ⚙️ | ✅ |
-| Pixel Watch | Full Support | WearOS 3 | v0.5.8 Pre-Release | ❓ | ❌ |
-| Fossil Gen 4 | **May be Incompatible** | **WearOS 2** |  | ❌ | ❌ |
-| Fossil Gen 5 | **May be Incompatible** | **WearOS 2** |  | ❌ | ❌ |
-| Fossil Gen 6 | Full Support | WearOS 3 | v0.5.8 Pre-Release | ❓ | ❌ |
-| COOSPO H6 Heart Rate Monitor Chest Strap | HR Support Only | **Not Compatible** ⚠️ | v1.0.0 Release | ⚙️ | ❌ |
-| Miband 5 | HR Support Only (Abandoned) | **Not Compatible** ⚠️ | v0.0.3 Release | ✅  | ✅  |
-| Miband 4 | HR Support Only (Abandoned) | **Not Compatible** ⚠️ | v0.0.3 Release | ✅  | ✅  |
+| Device Name      | Operating System | Standalone Mode | Client Mode | Desktop Mode | Bluetooth / Network |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Samsung Galaxy Watch 4      | WearOS 3       | ✅ |✅ |✅ | Network |
+| Samsung Galaxy Watch 5      | WearOS 3       | ✅ |✅ |✅ | Network |
+| Fossil Watch Gen 4      | WearOS 2       | ✅ |✅ |✅ | Network |
+| Fossil Watch Gen 5      | WearOS 2       | ✅ |✅ |✅ | Network |
+| Fossil Watch Gen 6      | WearOS 3       | ✅ |✅ |✅ | Network |
+| Pixel Watch     | WearOS 3       | ✅ |✅ |✅ | Network |
+| Samsung Galaxy Watch 1      | Tizen      | ❌ |❌ |✅ | Network |
 
 [See Full Device Support List](/#)
 
