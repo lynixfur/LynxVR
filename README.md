@@ -23,7 +23,7 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 | Pixel Watch     | WearOS 3       | ✅ |✅ |✅ | Network |
 | Samsung Galaxy Watch 1      | Tizen      | ❌ |❌ |✅ | Network |
 
-[See Full Device Support List](/#)
+[See Full Device Support List](https://github.com/Furred/LynxVR/wiki/Device-Compatibility-List)
 
 # Building
 
