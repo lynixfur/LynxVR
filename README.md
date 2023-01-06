@@ -32,4 +32,4 @@ LynxHR is fully open-source, free and growing with support on new and old hardwa
 
 # Contributions
 
-**Source Code will be released in 24-48 hours**
+**Source Code will be released in 24-48 hours after work :)**
