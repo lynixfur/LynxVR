@@ -2,7 +2,7 @@
 ![](https://cdn.discordapp.com/attachments/892441244612034611/1060649924934504568/ic_launcher.png)
 # LynxVR
 
-***BANNER HERE***
+![](https://cdn.discordapp.com/attachments/1002633749172850689/1060745085131698196/image.png)
 
 ***(Lynx) Big Cats Avatars - Made by Abiboi / [https://Abiboi.com](https://Abiboi.com) / @boi_abi*** 
 
