@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LynxHR</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="text_title_http_target">Target Computer</string>
+    <string name="text_hostname">Hostname/IP</string>
+    <string name="text_hostname_example">192.168.178.100</string>
+    <string name="text_port">Port</string>
+    <string name="text_port_example">6547</string>
+
+    <string name="text_current_hr">Current HR: %1s</string>
+
+    <string name="text_status">Status: %1s</string>
+    <string name="text_status_ok">OK</string>
+    <string name="text_status_error">Error while connecting</string>
+    <string name="text_status_not_running">Not running</string>
+    <string name="text_status_starting">Starting …</string>
+    <string name="text_status_unknown">Unknown</string>
+
+    <string name="notification_title">HeartRate to OBS</string>
+    <string name="notification_text">Your heart rate is currently being sent to OBS.</string>
+    <string name="notification_channel_title">HeartRate to OBS</string>
+</resources>
