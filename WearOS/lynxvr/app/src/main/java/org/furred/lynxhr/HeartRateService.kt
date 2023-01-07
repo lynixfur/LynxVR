@@ -6,11 +6,13 @@ import android.app.PendingIntent
 import android.app.Service
 import android.content.Context
 import android.content.Intent
+import android.content.IntentFilter
 import android.content.SharedPreferences
 import android.hardware.Sensor
 import android.hardware.SensorEvent
 import android.hardware.SensorEventListener
 import android.hardware.SensorManager
+import android.os.BatteryManager
 import android.os.IBinder
 import android.util.Log
 import androidx.core.app.NotificationCompat
@@ -173,6 +175,13 @@ class HeartRateService : Service(), SensorEventListener {
         mSensorManager = getSystemService(Context.SENSOR_SERVICE) as SensorManager
         mHeartRateSensor = mSensorManager.getDefaultSensor(Sensor.TYPE_HEART_RATE)
 
+        val sensors = mSensorManager.getSensorList(Sensor.TYPE_ALL);
+        val arrayList = ArrayList<String>()
+        for (sensor in sensors) {
+            arrayList.add(sensor.name)
+        }
+        arrayList.forEach { n -> System.out.println("LynxSensor: " + n) }
+
         startMeasure()
 
     }
@@ -227,9 +236,23 @@ class HeartRateService : Service(), SensorEventListener {
                     osc.send(OSCMessage(DEFAULT_VRC_ENDPOINT_BAT, listOf(0)))
                     osc.send(OSCMessage(DEFAULT_VRC_ENDPOINT_BAT_CHAR, listOf(false)))
 
-                    // NeosVR Client
-                    webSocketClient!!.send(heartrate.toString());
+                    // Battery Monitoring
+                    val batteryStatus: Intent? = IntentFilter(Intent.ACTION_BATTERY_CHANGED).let { ifilter ->
+                        this.registerReceiver(null, ifilter)
+                    }
 
+                    val status: Int = batteryStatus?.getIntExtra(BatteryManager.EXTRA_STATUS, -1) ?: -1
+                    val isCharging: Boolean = status == BatteryManager.BATTERY_STATUS_CHARGING
+                            || status == BatteryManager.BATTERY_STATUS_FULL
+
+                    val batteryPct: Float? = batteryStatus?.let { intent ->
+                        val level: Int = intent.getIntExtra(BatteryManager.EXTRA_LEVEL, -1)
+                        val scale: Int = intent.getIntExtra(BatteryManager.EXTRA_SCALE, -1)
+                        level * 100 / scale.toFloat()
+                    }
+
+                    // NeosVR Client
+                    webSocketClient!!.send("bpm=$heartrate,bat=$batteryPct,bat_charging=$isCharging");
                     sendStatusToActivity(MainActivity.Config.CONF_SENDING_STATUS_OK)
                 } catch(e: Exception) {
                     Log.e("OSC", e.toString())

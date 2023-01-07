@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"Ошибка"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"Открыто на телефоне"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Готово"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Изображение"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"Панель действий"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"Панель навигации"</string>
+</resources>

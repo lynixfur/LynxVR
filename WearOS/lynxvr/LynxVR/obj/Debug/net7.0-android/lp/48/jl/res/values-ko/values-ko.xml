@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"실패"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"휴대전화에서 열림"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"완료"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"이미지"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"작업 창"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"탐색 창"</string>
+</resources>

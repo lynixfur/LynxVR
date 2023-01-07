@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"ವಿಫಲವಾಗಿದೆ"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಲಾಗಿದೆ"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"ಯಶಸ್ವಿಯಾಗಿದೆ"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"ಚಿತ್ರ"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"ಕ್ರಿಯೆ ಡ್ರಾಯರ್"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"ನ್ಯಾವಿಗೇಶನ್ ಡ್ರಾಯರ್"</string>
+</resources>

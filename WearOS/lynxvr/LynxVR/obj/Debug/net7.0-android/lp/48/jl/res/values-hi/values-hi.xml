@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"कार्रवाई सफल नहीं हुई"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"आपके फ़ोन पर खोला गया"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"कार्रवाई सफल रही"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"इमेज"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"कार्रवाई पैनल"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"नेविगेशन पैनल"</string>
+</resources>

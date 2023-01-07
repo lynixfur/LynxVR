@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"נכשלה"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"נפתחה בטלפון שלך"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"ההפעלה הצליחה"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"תמונה"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"חלונית הזזה לפעולות"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"חלונית הזזה לניווט"</string>
+</resources>

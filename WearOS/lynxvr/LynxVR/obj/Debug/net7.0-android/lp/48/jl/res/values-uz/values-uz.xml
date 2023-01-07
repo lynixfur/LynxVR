@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"Xatolik"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"Telefoningizda ochildi"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Tayyor"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Rasm"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"Buyruqlar paneli"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"Navigatsiya paneli"</string>
+</resources>
