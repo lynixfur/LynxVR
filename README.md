@@ -7,7 +7,7 @@ Releasing Soon - Feburary 2024
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" height="50">
 
-# Supported Devices
+# Supported HR Devices
 | Device Name           | Operating System | Standalone Mode | LynxVR PC App | Wi-Fi / LTE | Third Party App Required |
 |-----------------------|------------------|-----------------|---------------|-------------|------------|
 | Samsung Galaxy Watch 4, 5 & 6 | WearOS 4         | ✅               | ✅             | ✅           | ❌ |
