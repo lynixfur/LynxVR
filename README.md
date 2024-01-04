@@ -16,6 +16,11 @@ Releasing Soon - Feburary 2024
 | Pixel Watch 2          | WearOS 4         | ✅               | ✅             | ✅           | ❌ | 
 | Samsung Galaxy Watch 3 | Tizen            | ❌               | ❌             | ✅           | ✅ |
 
+# Supported IOT Devices
+| Device Name           | Operating System | Standalone Mode | LynxVR PC App | Wi-Fi / LTE | Third Party App Required |
+|-----------------------|------------------|-----------------|---------------|-------------|------------|
+| LynxVR Hub + LynxShock | Embedded Rust         | ❌               | ✅             | ✅           | ❌ |
+
 # Supported Avatar Variables
 Work In Progress
 
