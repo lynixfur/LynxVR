@@ -1,6 +1,6 @@
 
 # LynxVR - BETA
-LynxVR is an application used for various tools to be used like HR Monitoring, IOT Avatars and managing IOT Devices around your home from VR.
+LynxVR is an application used for various tools to be used like HR Monitoring, IOT Avatars and managing IOT Devices around your home from VR in Resonite or VRChat.
 
 # Download
 Releasing Soon - Feburary 2024
