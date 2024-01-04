@@ -2,6 +2,11 @@
 # LynxVR - BETA
 LynxVR is an application used for various tools to be used like HR Monitoring, IOT Avatars and managing IOT Devices around your home from VR.
 
+# Download
+Releasing Soon - Feburary 2024
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" height="50">
+
 # Supported Devices
 | Device Name           | Operating System | Standalone Mode | LynxVR PC App | Wi-Fi / LTE | Third Party App Required |
 |-----------------------|------------------|-----------------|---------------|-------------|------------|
