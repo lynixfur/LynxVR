@@ -21,7 +21,11 @@ Releasing Soon - Feburary 2024
 |-----------------------|------------------|-----------------|---------------|-------------|------------|
 | LynxVR Hub + LynxShock | Embedded Rust         | ❌               | ✅             | ✅           | ❌ |
 | PiShock | Unknown        | ❌               | ✅             | ✅           | ✅ |
-| Matter Enabled Devices | N/A        | ❌               | ✅             | ✅           | ✅ |
+| Matter Enabled Devices | N/A        | ❌               | ✅             | ✅           | ❌ |
+
+# LynxVR Plugins
+By default, LynxVR does not come with certain features enabled by default. The only feature enabled opon installation is **Lynx HR Plugin**.
+YOU MUST INSTALL PLUGINS FOR THEM TO BE ENABLED.
 
 # Supported Avatar Variables
 Work In Progress
