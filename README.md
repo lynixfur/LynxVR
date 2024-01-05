@@ -25,6 +25,7 @@ Releasing Soon - Feburary 2024
 
 # LynxVR Plugins
 By default, LynxVR does not come with certain features enabled by default. The only feature enabled opon installation is **Lynx HR Plugin**.
+
 YOU MUST INSTALL PLUGINS FOR THEM TO BE ENABLED.
 
 # Supported Avatar Variables
