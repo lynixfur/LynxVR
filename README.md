@@ -20,6 +20,8 @@ Releasing Soon - Feburary 2024
 | Device Name           | Operating System | Standalone Mode | LynxVR PC App | Wi-Fi / LTE | Third Party App Required |
 |-----------------------|------------------|-----------------|---------------|-------------|------------|
 | LynxVR Hub + LynxShock | Embedded Rust         | ❌               | ✅             | ✅           | ❌ |
+| PiShock | Unknown        | ❌               | ✅             | ✅           | ✅ |
+| Matter Enabled Devices | N/A        | ❌               | ✅             | ✅           | ✅ |
 
 # Supported Avatar Variables
 Work In Progress
