@@ -32,7 +32,7 @@ Supported Plugins:
 
 | Plugin Name | Version | LynxVR Supported Version | Description |
 | ----------- | ------- | ------------------------ | ----------- |
-| Lynx HR | v0.0.45 | v0.9.1 BETA | Enables HR Support for LynxVR |
+| Lynx HR | v0.0.45 | v0.9.1 BETA | Enables HR Support for LynxVR (Installed by default) |
 | Lynx Shock | v1.4.19 | v0.9.0 BETA | Enables Lynx Shock support for LynxVR but requires physical LynxVR Hub |
 | Resonite Bridge | v0.0.1 | v0.9.1 BETA | Enables Communication between Resonite. |
 | VRChat Bridge | v0.0.1 | v0.9.1 BETA | Enables Communication between VRChat. |
