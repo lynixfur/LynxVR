@@ -14,7 +14,7 @@ Releasing Soon - Feburary 2024
 | Fossil Watch Gen 6     | WearOS 3         | ✅               | ✅             | ✅           | ❌ |
 | Pixel Watch            | WearOS 4         | ✅               | ✅             | ✅           | ❌ | 
 | Pixel Watch 2          | WearOS 4         | ✅               | ✅             | ✅           | ❌ | 
-| Samsung Galaxy Watch 3 | Tizen            | ❌               | ❌             | ✅           | ✅ |
+| ⚠️ Samsung Galaxy Watch 3 ⚠️ | Tizen            | ❌               | ❌             | ✅           | ✅ |
 
 # Supported IOT Devices
 | Device Name           | Operating System | Standalone Mode | LynxVR PC App | Wi-Fi / LTE | Third Party App Required |
